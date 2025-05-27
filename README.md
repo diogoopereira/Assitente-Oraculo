@@ -93,4 +93,4 @@ Para usar o Oráculo, você precisará de chaves de API válidas:
 
 ---
 
-Desenvolvido como parte do curso de LangChain
+Desenvolvido como pojeto de LangChain da plataforma Asimov Academy
